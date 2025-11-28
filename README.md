@@ -41,5 +41,14 @@ Por ejemplo:
     ****     
 Su area es (numero_de_area) y perimetro es (numero_de_perimetro)
 ```
+Si ha seleccionado la opción 4, el programa le mostrará el resumen general del programa.
+Por ejemplo:
 
+```
+-------------- RESUMEN ---------------
+Las figuras creadas: 
+Circulo@37f8bb67
+Circulo@49c2faae
+Rectangulo@20ad9418
+```
 
